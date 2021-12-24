@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 <!-- 🤔 I’m looking for help with 
 - 📫 How to reach me: atef.bettaib@gmail.com -->
 
+
+![Atef's github stats](https://github-readme-stats.vercel.app/api?username=atefBB&show_icons=true)
